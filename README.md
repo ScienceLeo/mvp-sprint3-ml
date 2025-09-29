@@ -5,7 +5,7 @@
 
 ## Como executar
 1. Clique no botão **Open in Colab** acima.
-2. No Colab, vá em **Executar tudo** (Executar tudo).
+2. No Colab, vá em **Executar tudo**.
 3. O notebook lê o dataset via URL e gera automaticamente a pasta `artefatos_mvp/` com modelos (.pkl), métricas, predições e interpretabilidade.
 4. Tempo total de execução: ~4 minutos.
 
